@@ -364,7 +364,7 @@ section .title::after{
     background: #2565C7;
 }
 .skills-content .right .java::before{
-    width: 90%;
+    width: 80%;
 }
 .skills-content .right .csharp::before{
     width: 80%;
@@ -373,7 +373,7 @@ section .title::after{
     width: 70%;
 }
 .skills-content .right .html::before{
-    width: 90%;
+    width: 80%;
 }
 .skills-content .right .css::before{
     width: 60%;
